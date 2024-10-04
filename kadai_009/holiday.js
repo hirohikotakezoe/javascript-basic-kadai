@@ -5,7 +5,7 @@ console.log ( holidayName [i] );
 }
 
 i = 0
-while (i == 16){
+while (i <= 15){
     console.log ( holidayName [i] );
     i++;
 }
