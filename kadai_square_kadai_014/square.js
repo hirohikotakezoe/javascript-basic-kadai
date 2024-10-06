@@ -1,11 +1,8 @@
-let pusedoNum
-pusedoNum = (num1 , num2) => {
-    console.log(num1 ** num2);
+let pusedoNum;
+pusedoNum = (num) => {
+    return (num ** 2);
 }
 
-pusedoNum(5 , 2)
-
-
-
+console.log(pusedoNum(5));
 
 
